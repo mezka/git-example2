@@ -1,0 +1,23 @@
+{
+  "name": "git-example2",
+  "version": "1.0.0",
+  "description": "Hello, git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezka/git-example2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mezka/git-example2/issues"
+  },
+  "homepage": "https://github.com/mezka/git-example2#readme",
+  "dependencies": {
+    "figlet": "^1.5.0"
+  }
+}
